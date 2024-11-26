@@ -4,11 +4,11 @@ A streamlined development workflow that enables local development with automatic
 
 ## Features
 
-🔄 Bidirectional syncing between local and cloud environments
-📝 Local development with VS Code
-🚀 Automatic file watching and syncing
-📊 Log management and retrieval
-🛠️ Compatible with macOS (local) and Linux (remote)
+- 🔄 Bidirectional syncing between local and cloud environments
+- 📝 Local development with VS Code
+- 🚀 Automatic file watching and syncing
+- 📊 Log management and retrieval
+- 🛠️ Compatible with macOS (local) and Linux (remote)
 
 ## Prerequisites
 
